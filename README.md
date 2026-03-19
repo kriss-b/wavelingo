@@ -79,7 +79,7 @@ supabase/functions/
 - [ ] Add more KiwiSDR receivers (and support other types of SDR)
 - [ ] Add frequency presets for popular ham bands
 - [ ] Support additional languages
-- [ ] Support other speech-to-text and transcription LLMs (including open weight)
+- [ ] Support other speech-to-text and transcription LLMs (including open weights)
 - [ ] Transcript export (text/SRT)
 - [ ] Signal strength (RSSI) display
 - [ ] Waterfall / spectrum visualization
