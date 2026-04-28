@@ -6,7 +6,7 @@
 
 ## What is Wavelingo?
 
-[Wavelingo](https://wavelingo.app/) connects to [KiwiSDR](http://kiwisdr.com/) receivers around the world, streams their audio in real time, transcribes spoken content, and translates it into your chosen language — all from a single web interface (dektop, tablet or smartphone).
+[Wavelingo](https://wavelingo.app/) connects to [KiwiSDR](http://kiwisdr.com/)  and [OpenWebRX](https://www.openwebrx.de/) receivers around the world, streams their audio in real time, transcribes spoken content, and translates it into your chosen language — all from a single web interface (dektop, tablet or smartphone).
 
 ## ✨ Features
 
@@ -76,13 +76,12 @@ supabase/functions/
 
 ## 📋 TODO / Roadmap
 
-- [ ] Add more KiwiSDR receivers (and support other types of SDR)
+- [X] Add more KiwiSDR receivers (and support other types of SDR)
 - [ ] Add frequency presets for popular ham bands
 - [ ] Support additional languages
 - [ ] Support other speech-to-text and transcription LLMs (including open weights)
 - [ ] Transcript export (text/SRT)
-- [ ] Signal strength (RSSI) display
-- [ ] Waterfall / spectrum visualization
+- [X] Signal strength (RSSI) display
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eb023862-c853-4148-a67a-44cc59e17901" width="700"><br><br>
